@@ -1,22 +1,38 @@
-<h1 align="center">Hi there! 👋, I'm Alexis Ayala</h1>
-<h3 align="center">A passionate Software Developer from Mexico City</h3>
+<h1 align="center">Hi, I'm Alexis Ayala 👋</h1>
+<h3 align="center">A passionate Mobile Software Developer from Mexico City</h3>
+<img src="https://res.cloudinary.com/linguative/image/upload/v1691793931/Proyecto_nuevo_1_ffynj3.png">
 
-- 🔭 I’m currently working on [Quality And Knowledge](https://qacg.com/)
 
-- 🌱 I’m currently learning more about **SwiftUI**
+<h4>
 
-- 👯 I’m looking to collaborate on **Freelance Projects**
+🔭 I’m currently working on [Quality And Knowledge](https://qacg.com/)
+</h4>
 
-- 💬 Ask me about **Ionic or any tech-related stuff**
+<h3>💼 Experience:</h3>
 
-- 📫 How to reach me **lex.solorio15@gmail.com**
+📱 Mobile Development: I've spent years crafting high-performance mobile applications with exceptional user experiences. My expertise spans from native app development to cross-platform solutions using tools like Ionic and Flutter.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/solorioapps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="solorioapps" height="30" width="40" /></a>
-<a href="https://instagram.com/solorioapps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="solorioapps" height="30" width="40" /></a>
-<a href="https://www.behance.net/alexisayalaportolio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="alexisayalaportolio" height="30" width="40" /></a>
-</p>
+![Static Badge](https://img.shields.io/badge/Ionic-3%20to%206-%233880FF?logo=ionic) ![Static Badge](https://img.shields.io/badge/Flutter-3.1.0-%2302569B?logo=flutter)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+🌐 Front-end: My front-end development experience encompasses crafting engaging and responsive interfaces using the latest web technologies. HTML5, CSS3, and JavaScript are my go-to tools for bringing stunning and functional designs to life.
+
+![Static Badge](https://img.shields.io/badge/Angular-6_to_14-%23DD0031?logo=angular) ![Static Badge](https://img.shields.io/badge/Html-5-%23E34F26?logo=html5) ![Static Badge](https://img.shields.io/badge/CSS-3-%231572B6?logo=css3) ![Static Badge](https://img.shields.io/badge/Javascript-6-%23F7DF1E?logo=javascript)
+
+💻 Backend: I'm not just limited to the front-end; I also have deep knowledge in server-side development. I've built robust servers and APIs using Node.js and Express, combining efficiency with scalability.
+
+![Static Badge](https://img.shields.io/badge/NodeJS-12%20to%2018-%23339933?logo=nodedotjs) ![Static Badge](https://img.shields.io/badge/Express-5-%23000000?logo=express) ![Static Badge](https://img.shields.io/badge/MongoDB-Atlas-%2347A248?logo=mongodb)
+
+🔧 Technical Skills:
+- Front-end: HTML5, CSS3, JavaScript, Angular, Ionic, Flutter
+- Backend: Node.js, Express, MongoDB
+- Tools: Git, VS Code, AWS, Heroku
+
+![Static Badge](https://img.shields.io/badge/Github-_-%23F05032?logo=git)
+![Static Badge](https://img.shields.io/badge/AWS-EC2-%23FF9900?logo=amazonec2) 
+![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-_-%23007ACC?logo=visualstudiocode)
+![Static Badge](https://img.shields.io/badge/Heroku-_-%23430098?logo=heroku)
+
+
+🚀 I'm always seeking new challenges and opportunities to enhance my skills and learn new technologies. I constantly strive to create high-quality solutions that drive innovation and enhance users' lives.
+
+🌱 Let's Connect! I'm open to collaborating on exciting projects and connecting with fellow tech enthusiasts. Feel free to reach out for discussing ideas or just to geek out about code!
