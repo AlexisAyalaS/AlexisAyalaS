@@ -4,8 +4,7 @@
 
 
 <h4>
-
-🔭 I’m currently working on [Quality And Knowledge](https://qacg.com/)
+🔭 I’m currently looking for share my experience and colaborate 
 </h4>
 
 <h3>💼 Experience:</h3>
