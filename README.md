@@ -1,37 +1,76 @@
-<h1 align="center">Hi, I'm Alexis Ayala 👋</h1>
-<h3 align="center">A passionate Mobile Software Developer from Mexico City</h3>
-<img src="https://res.cloudinary.com/linguative/image/upload/v1691793931/Proyecto_nuevo_1_ffynj3.png">
+<h1 align="center">🚀 Hi, I'm Alexis Ayala 👋</h1>
+<h3 align="center">📱 Mobile Tech Lead & Full-Stack Developer | México City</h3>
 
+<p align="center">
+  <img src="https://res.cloudinary.com/solorioapps/image/upload/v1691793931/Proyecto_nuevo_1_ffynj3.png" width="400" alt="Coding Illustration">
+</p>
 
-<h4>
-🔭 I’m currently looking for share my experience and colaborate 
-</h4>
+<p align="center">
+  <a href="[TU_LINKEDIN]"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:lex.solorio15@gmail.com"><img src="https://img.shields.io/badge/-HIRE%20ME-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-<h3>💼 Experience:</h3>
+---
 
-📱 Mobile Development: I've spent years crafting high-performance mobile applications with exceptional user experiences. My expertise spans from native app development to cross-platform solutions using tools like Ionic and Flutter.
+### 🔥 What I Bring to the Table
 
-![Static Badge](https://img.shields.io/badge/Ionic-3%20to%206-%233880FF?logo=ionic) ![Static Badge](https://img.shields.io/badge/Flutter-3.1.0-%2302569B?logo=flutter)
+✔ **9+ years** transforming ideas into high-performance mobile apps  
+✔ **Full-stack expertise** from UI/UX to cloud infrastructure  
+✔ **Proven track record** delivering solutions for startups and enterprises  
+✔ **Tech evangelist** passionate about clean code and best practices
 
-🌐 Front-end: My front-end development experience encompasses crafting engaging and responsive interfaces using the latest web technologies. HTML5, CSS3, and JavaScript are my go-to tools for bringing stunning and functional designs to life.
+---
 
-![Static Badge](https://img.shields.io/badge/Angular-6_to_14-%23DD0031?logo=angular) ![Static Badge](https://img.shields.io/badge/Html-5-%23E34F26?logo=html5) ![Static Badge](https://img.shields.io/badge/CSS-3-%231572B6?logo=css3) ![Static Badge](https://img.shields.io/badge/Javascript-6-%23F7DF1E?logo=javascript)
+### 🛠 Tech Stack Superpowers
 
-💻 Backend: I'm not just limited to the front-end; I also have deep knowledge in server-side development. I've built robust servers and APIs using Node.js and Express, combining efficiency with scalability.
+#### 📱 Mobile Development
+![Ionic](https://img.shields.io/badge/Ionic-3_to_8-3880FF?logo=ionic&logoColor=white&style=flat)
+![Flutter](https://img.shields.io/badge/Flutter-3.1+-02569B?logo=flutter&logoColor=white&style=flat)
+![React Native](https://img.shields.io/badge/React_Native-0.70+-61DAFB?logo=react&logoColor=white&style=flat)
 
-![Static Badge](https://img.shields.io/badge/NodeJS-12%20to%2018-%23339933?logo=nodedotjs) ![Static Badge](https://img.shields.io/badge/Express-5-%23000000?logo=express) ![Static Badge](https://img.shields.io/badge/MongoDB-Atlas-%2347A248?logo=mongodb)
+#### 🌐 Frontend Mastery
+![Angular](https://img.shields.io/badge/Angular-6_to_19-DD0031?logo=angular&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-4.0+-3178C6?logo=typescript&logoColor=white&style=flat)
 
-🔧 Technical Skills:
-- Front-end: HTML5, CSS3, JavaScript, Angular, Ionic, Flutter
-- Backend: Node.js, Express, MongoDB
-- Tools: Git, VS Code, AWS, Heroku
+#### ⚙ Backend & DevOps
+![Node.js](https://img.shields.io/badge/Node.js-12_to_18-339933?logo=nodedotjs&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/AWS-EC2/S3/Lambda-FF9900?logo=amazonaws&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/Firebase-Realtime_DB-FFCA28?logo=firebase&logoColor=black&style=flat)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.4-brightgreen)  
+![Spring Security](https://img.shields.io/badge/Spring%20Security-JWT-orange)  
+![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
 
-![Static Badge](https://img.shields.io/badge/Github-_-%23F05032?logo=git)
-![Static Badge](https://img.shields.io/badge/AWS-EC2-%23FF9900?logo=amazonec2) 
-![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-_-%23007ACC?logo=visualstudiocode)
-![Static Badge](https://img.shields.io/badge/Heroku-_-%23430098?logo=heroku)
+---
 
+### 🏆 Career Highlights
 
-🚀 I'm always seeking new challenges and opportunities to enhance my skills and learn new technologies. I constantly strive to create high-quality solutions that drive innovation and enhance users' lives.
+- **Led development** of various projects
+- **Optimized performance** reducing crash rates by 85% for certain companies
+- **Mentored** 10+ junior developers in mobile best practices
 
-🌱 Let's Connect! I'm open to collaborating on exciting projects and connecting with fellow tech enthusiasts. Feel free to reach out for discussing ideas or just to geek out about code!
+---
+
+### 💡 Current Projects & Goals
+
+🔧 Building **Clients Projects**  
+🌱 Learning **Kotlin Multiplatform** and **Jetpack Compose**  
+🎯 Contributing more to **open source** communities
+
+---
+
+### 📬 Let's Create Something Amazing!
+
+I'm always excited to:
+- Collaborate on **innovative mobile projects**
+- Share knowledge about **cutting-edge tech**
+- Help startups **build their MVP**
+- Connect with **fellow developers**
+
+<p align="center">
+  <a href="https://calendly.com/lex-solorio15/30min"><img src="https://img.shields.io/badge/BOOK_A_CALL-30_min-6e48aa?style=for-the-badge" alt="Book Call"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlexisAyalaS&color=blue&style=flat" alt="Profile views">
+</p>
