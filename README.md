@@ -68,7 +68,7 @@ I'm always excited to:
 - Connect with **fellow developers**
 
 <p align="center">
-  <a href="https://calendly.com/lex-solorio15/30min"><img src="https://img.shields.io/badge/BOOK_A_CALL-30_min-6e48aa?style=for-the-badge" alt="Book Call"></a>
+  <a href="https://calendly.com/lex-solorio15/llamada-30-min"><img src="https://img.shields.io/badge/BOOK_A_CALL-30_min-6e48aa?style=for-the-badge" alt="Book Call"></a>
 </p>
 
 <p align="center">
